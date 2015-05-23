@@ -1,15 +1,32 @@
 body {
 	margin: 0px;
 	text-align: center;
-	background-color: #EAFFFE;
-	color: #383109;
+	background-color: #2B2506;
+	color: #EAFFFE;
 	font-size: 18px;
-	font-family: 'Ovo', serif;
-	padding: 20px 0 40px 0;
+	font-family: 'Martel', serif;
+	font-weight: 200;
 }
 
 h1 {
-	font-size: 46px;
+	font-family: 'Ovo', serif;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#header {
+	position: fixed;
+	background-color: #7AEFAD;
+	color: #2E1B4F;
+	width: 100%;
+	padding: 10px;
+
+}
+
+#footer {
+	background-color: #7AEFAD;
+	color: #2E1B4F;
+	padding: 30px;
 }
 
 .row {
@@ -31,12 +48,13 @@ h1 {
 }
 
 #first {
-
+	padding-top: 160px;
 }
 
 #second {
-	background-color: #383109;
-	color: #EAFFFE;
+	background-color: #EAFFFE;
+	color: #2B2506;
+	font-weight: 400;
 }
 
 #third {
@@ -44,8 +62,9 @@ h1 {
 }
 
 #fourth {
-	background-color: #383109;
-	color: #EAFFFE;
+	background-color: #EAFFFE;
+	color: #2B2506;
+	font-weight: 400;
 }
 
 #fifth {
