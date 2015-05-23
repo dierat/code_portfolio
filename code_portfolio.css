@@ -1,8 +1,12 @@
+a {
+	color: #774F74;
+}
+
 body {
 	margin: 0px;
 	text-align: center;
-	background-color: #2B2506;
-	color: #EAFFFE;
+	background-color: #18302B;
+	color: #F7FCFF;
 	font-size: 18px;
 	font-family: 'Martel', serif;
 	font-weight: 200;
@@ -65,8 +69,8 @@ body {
 }
 
 #second {
-	background-color: #EAFFFE;
-	color: #2B2506;
+	background-color: #F7FCFF;
+	color: #18302B;
 	font-weight: 400;
 }
 
@@ -75,8 +79,8 @@ body {
 }
 
 #fourth {
-	background-color: #EAFFFE;
-	color: #2B2506;
+	background-color: #F7FCFF;
+	color: #18302B;
 	font-weight: 400;
 }
 
