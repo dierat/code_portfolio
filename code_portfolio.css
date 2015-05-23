@@ -1,17 +1,53 @@
 body {
+	margin: 0px;
 	text-align: center;
-	padding: 0 20px 0 20px;
+	background-color: #EAFFFE;
+	color: #383109;
+	font-size: 18px;
+	font-family: 'Ovo', serif;
+	padding: 20px 0 40px 0;
+}
+
+h1 {
+	font-size: 46px;
 }
 
 .row {
 	text-align: justify;
 	display: flex;
+	flex-wrap: no-wrap;
+	max-width: 100%;
+	padding: 100px 50px 100px 50px;
 }
 
-.left {
+.text {
 	padding: 20px;
+	min-width: 40px;
 }
 
-.right{
+.image {
 	padding: 20px;
+	min-width: 20px;
+}
+
+#first {
+
+}
+
+#second {
+	background-color: #383109;
+	color: #EAFFFE;
+}
+
+#third {
+
+}
+
+#fourth {
+	background-color: #383109;
+	color: #EAFFFE;
+}
+
+#fifth {
+
 }
